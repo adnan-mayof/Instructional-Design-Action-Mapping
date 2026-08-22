@@ -26,8 +26,6 @@ I also gave them an opportunity to demonstrate whether they could **apply the pr
 
 ### 🔍 How Action Mapping Shaped the Solution
 
-### 🔍 How Action Mapping Shaped the Solution
-
 - **Interview:** I met with junior researchers to understand what they needed to accomplish, what was preventing them from doing it, and how they preferred to learn.
 - **Actions:** Through the Action Mapping process, I identified that they needed to **learn how to conduct a meta-analysis in R by doing it themselves**.
 - **Real Causes:** I learned that they needed **hands-on practice** rather than simply more information or lectures.
