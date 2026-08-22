@@ -26,11 +26,12 @@ I also gave them an opportunity to demonstrate whether they could **apply the pr
 
 ### 🔍 How Action Mapping Shaped the Solution
 
-- **Interview:** Understand what researchers need to accomplish, what is preventing them from doing it, and how they prefer to learn.
-- **Actions:** Identify the procedures researchers need to perform independently.
-- **Real Causes:** Identify what prevents them from successfully performing those actions.
-- **Activities:** Practice the procedures together before moving to independent practice.
-- **Feedback:** Provide guidance while researchers work through problems.
-- **Solution:** Create on-demand instructional videos that support the actions learners need to perform.
+### 🔍 How Action Mapping Shaped the Solution
 
-> **Action Mapping helped me move from being an “order taker” to a performance consultant—focusing on what researchers needed to do, identifying the real problem, and designing activities around the actions they needed to perform.**
+- **Interview:** I met with junior researchers to understand what they needed to accomplish, what was preventing them from doing it, and how they preferred to learn.
+- **Actions:** Through the Action Mapping process, I identified that they needed to **learn how to conduct a meta-analysis in R by doing it themselves**.
+- **Real Causes:** I learned that they needed **hands-on practice** rather than simply more information or lectures.
+- **Activities:** We opened **RStudio and conducted the analysis together live** before moving to independent practice.
+- **Feedback:** I provided guidance and feedback as they worked through problems and learned to solve them independently.
+- 
+ 
